@@ -9,6 +9,9 @@ This has only been used on MacOS but it SHOULD work on Windows and some Linux fl
 
 Please feel free to contribute if you want to make this better.
 
+How it looks
+![example](images/example.jpeg)
+
 ## Run
 npm run start
 ## Package

@@ -24,7 +24,7 @@ function init() {
 }
 
 function openObsidian() {
-    // require('electron').shell.openExternal("obsidian://");
+    require('electron').shell.openExternal("obsidian://");
 }
 
 
